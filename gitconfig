@@ -7,7 +7,7 @@
 	rewrite = commit --amend --no-edit
 	sm = submodule
 [user]
-	email = diptyshev@ptsecurity.com
+	email = dmitry.iptyshev@alberblanc.com
 	name = Dmitriy Iptyshev
 [core]
 	editor = vim
